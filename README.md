@@ -21,8 +21,3 @@ An interactive, browser-based festive art studio and mini-game collection built 
 - **🎵 Synthesized Web Audio:** Native festive sitar/chime notes and celebratory firework effects generated procedurally—no external MP3 files required.
 - **💌 Greeting Card Export:** Frame your finished Rangoli with a custom Diwali wish and download it as a high-resolution image to share.
 
-## 🚀 Getting Started
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/your-username/diwali-rangoli-studio.git](https://github.com/your-username/diwali-rangoli-studio.git)
