@@ -2,8 +2,6 @@
 
 An interactive, browser-based festive art studio and mini-game collection built with vanilla **HTML5 Canvas**, **JavaScript**, and the **Web Audio API**. Zero dependencies, zero build steps—just open and celebrate!
 
-![Diwali Rangoli Studio Preview](./preview.png)
-<!-- Replace ./preview.png with an actual screenshot of your Rangoli creation! -->
 
 ## ✨ Features
 
